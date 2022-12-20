@@ -2,6 +2,8 @@
 
 # Kalvium Lab | REACT - Think with React
 
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.nikjos.in/open?repo=nikiljos/lab-react-think-with-react-part1)
+
 ## Learning Goals
 
 In this exercise, the goal is to apply as many as possible of the concepts you've just learned:
